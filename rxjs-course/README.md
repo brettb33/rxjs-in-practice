@@ -1,4 +1,4 @@
-## The RxJs In Practice Course B
+## The RxJs In Practice Course
 
 This repository contains the code of the [RxJs In Practice Course](https://angular-university.io/course/rxjs-course).
 
